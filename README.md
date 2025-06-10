@@ -1,16 +1,59 @@
-## Hi there 👋
+### Hi there, I'm Vitor! 👋
 
-<!--
-**vitorsystem/vitorsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at **FIAP** and a technology enthusiast who loves building things and solving problems.
 
-Here are some ideas to get you started:
+My main focus right now is on **Back-End development using the .NET ecosystem**. I'm actively self-learning and building projects with C#, ASP.NET Core, and Blazor to turn theory into practical, real-world skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for an internship opportunity where I can join a high-performing team, contribute to challenging projects, and grow as a developer.
+
+---
+
+### 🚀 What I'm Focused On
+
+I'm strengthening my skills on two main fronts: self-learning the .NET stack for professional development and building a solid foundation with my college coursework.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>My Main Stack (.NET)</h4>
+      <ul>
+        <li>C# & .NET 8</li>
+        <li>ASP.NET Core (for building APIs)</li>
+        <li>Blazor (for interactive web UIs)</li>
+        <li>Entity Framework Core (for database communication)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Also learning through my coursework at FIAP:</h4>
+      <ul>
+        <li>Software Engineering & Agile Methodologies (Scrum)</li>
+        <li>Systems Analysis & Design (UML)</li>
+        <li>Database Modeling & SQL (SQL Server, Oracle)</li>
+        <li>Object-Oriented Programming principles with Java & Python</li>
+        <li>Version Control with Git & GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech & Tools
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvitorbernardo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaov_work@outlook.com)
