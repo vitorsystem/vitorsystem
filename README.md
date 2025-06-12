@@ -17,7 +17,7 @@ I'm strengthening my skills on two main fronts: self-learning the .NET stack for
     <td width="50%" valign="top">
       <h4>My Main Stack (.NET)</h4>
       <ul>
-        <li>C# & .NET 8</li>
+        <li>C# & .NET 9</li>
         <li>ASP.NET Core (for building APIs)</li>
         <li>Blazor (for interactive web UIs)</li>
         <li>Entity Framework Core (for database communication)</li>
