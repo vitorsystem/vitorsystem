@@ -29,7 +29,8 @@ I'm strengthening my skills on two main fronts: self-learning the .NET stack for
         <li>Software Engineering & Agile Methodologies (Scrum)</li>
         <li>Systems Analysis & Design (UML)</li>
         <li>Database Modeling & SQL (SQL Server, Oracle)</li>
-        <li>Object-Oriented Programming principles with Java & Python</li>
+        <li>Object-Oriented Programming principles with Python</li>
+        <li>Front-End (HTML, CSS, JavaScript)
         <li>Version Control with Git & GitHub</li>
       </ul>
     </td>
