@@ -2,7 +2,7 @@
 
 I'm a Systems Analysis and Development student at **FIAP** (Class of 2026) and a back-end developer with a passion for building scalable, intelligent solutions. Previously, I worked as a Software Development Intern at **XP Inc.** within the Credit and Collections engineering team.
 
-My main focus is on **Back-End development using the .NET ecosystem (.NET 8)** and **Java (Spring Boot)**, applying concepts like Clean Architecture and Domain-Driven Design (DDD). I also have hands-on experience integrating generative AI models and developing event-driven bots for platforms like Discord and Telegram.
+My main focus is on **Back-End development using the .NET ecosystem (.NET 10)** and **Java (Spring Boot)**, applying concepts like Clean Architecture and Domain-Driven Design (DDD). I also have hands-on experience integrating generative AI models and developing event-driven bots for platforms like Discord and Telegram.
 
 ---
 
