@@ -2,9 +2,7 @@
 
 I'm a Software Development student at **FIAP** and a technology enthusiast who loves building things and solving problems.
 
-My main focus right now is on **Back-End development using the .NET ecosystem**. I'm actively self-learning and building projects with C#, ASP.NET Core, and Blazor to turn theory into practical, real-world skills.
-
-I'm currently looking for an internship opportunity where I can join a high-performing team, contribute to challenging projects, and grow as a developer.
+My main focus right now is on **Back-End development using the .NET ecosystem**. I'm actively self-learning and building projects with C# and .NET Framework to turn theory into practical, real-world skills.
 
 ---
 
