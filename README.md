@@ -1,35 +1,30 @@
 ### Hi there, I'm Vitor! 👋
 
-I'm a Software Development student at **FIAP** and a technology enthusiast who loves building things and solving problems.
+I'm a Systems Analysis and Development student at **FIAP** (Class of 2026) and a back-end developer with a passion for building scalable, intelligent solutions. Previously, I worked as a Software Development Intern at **XP Inc.** within the Credit and Collections engineering team.
 
-My main focus right now is on **Back-End development using the .NET ecosystem**. I'm actively self-learning and building projects with C# and .NET Framework to turn theory into practical, real-world skills.
+My main focus is on **Back-End development using the .NET ecosystem (.NET 8)** and **Java (Spring Boot)**, applying concepts like Clean Architecture and Domain-Driven Design (DDD). I also have hands-on experience integrating generative AI models and developing event-driven bots for platforms like Discord and Telegram.
 
 ---
 
-### 🚀 What I'm Focused On
-
-I'm strengthening my skills on two main fronts: self-learning the .NET stack for professional development and building a solid foundation with my college coursework.
+### 🚀 What I'm Focused On & My Stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>My Main Stack (.NET)</h4>
+      <h4>Backend & Architecture</h4>
       <ul>
-        <li>C# & .NET</li>
-        <li>ASP.NET Core (for building APIs)</li>
-        <li>Blazor (for interactive web UIs)</li>
-        <li>Entity Framework Core (for database communication)</li>
+        <li><b>Languages:</b> C#, Java, Python</li>
+        <li><b>Frameworks:</b> .NET 8, ASP.NET Core, Spring Boot, JPA/Hibernate</li>
+        <li><b>Design:</b> Clean Architecture, DDD, RESTful Web APIs</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Also learning through my coursework at FIAP:</h4>
+      <h4>Data, DevOps & Integrations</h4>
       <ul>
-        <li>Software Engineering & Agile Methodologies (Scrum)</li>
-        <li>Systems Analysis & Design (UML)</li>
-        <li>Database Modeling & SQL (SQL Server, Oracle)</li>
-        <li>Object-Oriented Programming principles with Python</li>
-        <li>Front-End (HTML, CSS, JavaScript)
-        <li>Version Control with Git & GitHub</li>
+        <li><b>Databases:</b> SQL Server, Oracle PL/SQL, MongoDB, Redis</li>
+        <li><b>DevOps:</b> Docker, Kubernetes, Git, GitHub Actions, Azure DevOps</li>
+        <li><b>Observability:</b> Grafana, Dynatrace</li>
+        <li><b>AI & Bots:</b> Google Cloud Vertex AI, Azure OpenAI, Gemini API, Telegram/Discord Bots</li>
       </ul>
     </td>
   </tr>
@@ -37,18 +32,28 @@ I'm strengthening my skills on two main fronts: self-learning the .NET stack for
 
 ---
 
+### 🏆 Recent Projects & Achievements
+
+* 🥇 **1st Place - Hackathon Google Cloud GEN AI 2025:** Developed *AdaptAI (Kaleido IA)*, an AI platform designed to adapt educational materials for neurodivergent students.
+* 💡 **Flow (FIAP Challenge):** Innovation management system built with .NET 8, MongoDB, React Native, and Google Gemini API.
+* 🌱 **EloGreen:** Supply chain ESG monitoring Web API built in .NET 8 utilizing Clean Architecture and DDD.
+* 🔥 **IGNIS Orbital (FIAP Global Solution):** Wildfire monitoring web prototype developed with React, TypeScript, and Leaflet.
+* 🏛️ **NexoGov:** B2G SaaS protocol management system prototype created to improve public administration efficiency.
+
+---
+
 ### 💻 Tech & Tools
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
-[![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ---
 
